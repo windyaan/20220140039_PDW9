@@ -1,0 +1,27 @@
+/* style.css */
+.nav-tabs {
+    background-color: green;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.nav-tabs .nav-link {
+    color: white;
+}
+
+.nav-tabs .nav-link:hover {
+    color: #ccc;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: white;
+    color: green;
+}
+
+footer {
+    background-color: rgba(0, 128, 0, 0.7); /* Green with 70% opacity */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
